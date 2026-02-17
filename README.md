@@ -78,26 +78,7 @@ Outperformed Random Forest (81%) and SVM (79%) on the validation set, with the a
 
 ### Prerequisites
 - Node.js 16+ and npm installed
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR-USERNAME/churn-prediction-dashboard.git
-cd churn-prediction-dashboard
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Start the development server:
-```bash
-npm start
-```
-
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
+ Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ---
 
