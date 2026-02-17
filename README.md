@@ -6,7 +6,7 @@ A production-grade analytics dashboard built with React to predict customer chur
 
 ---
 
-## roject Overview
+## Project Overview
 
 This project analyzes large customer datasets to identify behavioral patterns driving churn, predict at-risk customers before they leave, and support data-driven retention strategies. The result: a **12% improvement in retention** after implementing model-driven interventions.
 
