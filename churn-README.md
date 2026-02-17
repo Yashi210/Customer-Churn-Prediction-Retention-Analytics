@@ -157,27 +157,5 @@ WHERE snapshot_date = CURRENT_DATE;
 - 📈 Retention rate improved from **74.2% → 81.7%** (+12%)
 - ⚡ Freemium-to-paid churn reduced by targeting highest-scoring leads first
 
----
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to open a PR or raise an issue.
-
----
-
-## 📝 License
-
-MIT License — free to use for portfolio or commercial projects.
-
----
-
-## 📧 Contact
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
-
----
-
-⭐ If this project helped you, give it a star!
