@@ -78,7 +78,7 @@ Outperformed Random Forest (81%) and SVM (79%) on the validation set, with the a
 
 ### Prerequisites
 - Node.js 16+ and npm installed
- Open http://localhost:8888/notebooks/churn_model.ipynb
+ Open http://localhost:0000
 
 ---
 
