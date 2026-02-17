@@ -1,4 +1,4 @@
-# 📉 Customer Churn Prediction & Retention Analysis
+# Customer Churn Prediction & Retention Analysis
 
 > Predicting at-risk customers using Machine Learning, SQL analytics, and an interactive dashboard — reducing churn and saving revenue.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Customer churn is one of the most costly problems in subscription-based businesses. This project builds an end-to-end churn prediction and retention analysis system that:
 
@@ -23,7 +23,7 @@ Customer churn is one of the most costly problems in subscription-based business
 
 ---
 
-## 🎯 Key Results
+## Key Results
 
 | Metric | Value |
 |--------|-------|
@@ -37,7 +37,7 @@ Customer churn is one of the most costly problems in subscription-based business
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 customer-churn-prediction/
@@ -58,7 +58,7 @@ customer-churn-prediction/
 
 ---
 
-## 🔍 Dataset Features
+##  Dataset Features
 
 | Feature | Type | Description |
 |---------|------|-------------|
@@ -76,7 +76,7 @@ customer-churn-prediction/
 
 ---
 
-## 🧠 ML Pipeline
+##  ML Pipeline
 
 ```
 Raw Data
@@ -109,7 +109,7 @@ Raw Data
 
 ---
 
-## 📊 Key Findings
+##  Key Findings
 
 **Contract Type is the strongest churn predictor:**
 - Month-to-Month customers churn at **42.3%**
@@ -135,7 +135,7 @@ Raw Data
 
 ---
 
-## 🗄️ SQL Queries Included
+##  SQL Queries Included
 
 | Query | Purpose |
 |-------|---------|
@@ -152,7 +152,7 @@ Raw Data
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 **1. Clone the repository**
 ```bash
@@ -193,7 +193,7 @@ After running `churn_prediction.py`, the following charts are generated:
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 Based on the analysis:
 
@@ -205,7 +205,7 @@ Based on the analysis:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -218,19 +218,5 @@ Based on the analysis:
 
 ---
 
-## 👤 Author
 
-**[Your Name]**
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
-- 📧 Email: your@email.com
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-*If you found this project helpful, please consider giving it a ⭐ star!*
