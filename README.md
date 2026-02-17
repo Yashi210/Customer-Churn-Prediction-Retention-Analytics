@@ -6,39 +6,39 @@ A production-grade analytics dashboard built with React to predict customer chur
 
 ---
 
-## 🎯 Project Overview
+## roject Overview
 
 This project analyzes large customer datasets to identify behavioral patterns driving churn, predict at-risk customers before they leave, and support data-driven retention strategies. The result: a **12% improvement in retention** after implementing model-driven interventions.
 
 ---
 
-## ✨ Dashboard Features
+##  Dashboard Features
 
-### 📊 Overview Tab
+### Overview Tab
 - Real-time KPI cards — total customers, churn rate, at-risk accounts, revenue at risk
 - Retention rate trend: actual vs model-predicted
 - Churn breakdown by customer segment (Enterprise, Mid-Market, SMB, Freemium)
 - Engagement vs Tenure scatter plot with churn probability heatmap
 
-### 🚨 At-Risk Tab
+###  At-Risk Tab
 - Live queue of high-churn-probability customers sorted by risk score
 - Days inactive, ARR, and risk level per account
 - AI-recommended actions (e.g., immediate call, discount offer, feature demo)
 
-### 🤖 Model Tab
+###  Model Tab
 - Logistic Regression performance metrics: Accuracy, Precision, Recall, F1 Score
 - Feature importance breakdown — top predictors of churn
 - Confusion matrix with TP, FP, FN, TN breakdown
 - Model comparison vs Random Forest and SVM
 
-### 📅 Cohorts Tab
+###  Cohorts Tab
 - Monthly cohort retention heatmap
 - Multi-line retention curves by acquisition cohort
 - Drop-off pattern analysis across customer lifecycle
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Tools |
 |---|---|
@@ -50,7 +50,7 @@ This project analyzes large customer datasets to identify behavioral patterns dr
 
 ---
 
-## 🤖 Machine Learning Model
+##  Machine Learning Model
 
 ### Model: Logistic Regression
 
@@ -74,7 +74,7 @@ Outperformed Random Forest (81%) and SVM (79%) on the validation set, with the a
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js 16+ and npm installed
@@ -101,7 +101,7 @@ npm start
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 churn-prediction-dashboard/
@@ -119,7 +119,7 @@ churn-prediction-dashboard/
 
 ---
 
-## 🔧 Connecting Real Data
+##  Connecting Real Data
 
 Replace sample data with your actual data source:
 
@@ -150,31 +150,16 @@ WHERE snapshot_date = CURRENT_DATE;
 
 ---
 
-## 📈 Key Results
+##  Key Results
 
-- 🎯 Identified **1,842 at-risk customers** before churn occurred
-- 💰 **$2.1M revenue** protected through proactive outreach
-- 📈 Retention rate improved from **74.2% → 81.7%** (+12%)
-- ⚡ Freemium-to-paid churn reduced by targeting highest-scoring leads first
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to open a PR or raise an issue.
+-  Identified **1,842 at-risk customers** before churn occurred
+-  **$2.1M revenue** protected through proactive outreach
+-  Retention rate improved from **74.2% → 81.7%** (+12%)
+-  Freemium-to-paid churn reduced by targeting highest-scoring leads first
 
 ---
 
-## 📝 License
 
-MIT License — free to use for portfolio or commercial projects.
-
----
-
-## 📧 Contact
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
 - LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
