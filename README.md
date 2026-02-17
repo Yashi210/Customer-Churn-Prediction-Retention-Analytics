@@ -160,9 +160,4 @@ WHERE snapshot_date = CURRENT_DATE;
 ---
 
 
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
----
-
-⭐ If this project helped you, give it a star!
